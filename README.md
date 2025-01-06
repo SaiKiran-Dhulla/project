@@ -5,16 +5,20 @@
 This project implements deep learning techniques for detecting and classifying surface defects in industrial materials. Leveraging state-of-the-art models like YOLO, VGG, and ResNet with attention mechanisms, the project demonstrates an effective approach to automate surface defect identification, improving accuracy and reducing manual inspection overhead.
 
 ## Technologies Used
-   ●	Frameworks: TensorFlow
-   ●	Models: CNN, Random Forest, VGG16, ResNet with CBAM, YOLOv5
-   ●	Languages: Python
-   ●	Tools: OpenCV, NumPy, Matplotlib, scikit-learn
+   -   Frameworks: TensorFlow
+    
+-   Models: CNN, Random Forest, VGG16, ResNet with CBAM, YOLOv5
+    
+-   Languages: Python
+    
+-   Tools: OpenCV, NumPy, Matplotlib, scikit-learn
+
 ## Dataset
   The project utilizes an open-source dataset from Kaggle. It contains images of industrial 
   materials with corresponding defect labels. Annotations are provided in XML format(Pascal 
   VOC).
 ## Setup and Installation
-  Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/SaiKiran-Dhulla/project.git
 cd project
